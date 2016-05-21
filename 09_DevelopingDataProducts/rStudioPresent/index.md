@@ -31,7 +31,7 @@ Authoring content
     - (`alt-f` then `f` then `p` if you want key strokes)
     - Use basically the same R markdown format for authoring as slidify/knitr
         - Single quotes for inline code
-        - Tripple qutoes for block code
+        - Triple qutoes for block code
         - Same options for code evaluation, caching, hiding etcetera
 
 Compiling and tools
@@ -60,7 +60,7 @@ Here's the option "linear"
 transition: linear
 
 - Just put `transition: linear` right after the slide creation (three equal signs or more in a row)
-- Tansition options 
+- Transition options 
     - http://www.rstudio.com/ide/docs/presentations/slide_transitions_and_navigation
 
 Hierarchical organization
